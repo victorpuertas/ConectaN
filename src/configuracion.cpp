@@ -6,6 +6,7 @@
 */
 #include <fstream>
 #include <string>
+#include <cstdlib>
 #include"configuracion.h"
 using namespace std;
 
