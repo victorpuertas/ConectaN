@@ -1,7 +1,7 @@
 ConectaN
 ========
 
-ConectaN is a simple clone of the traditional game Connect Four written with a simple IA.
+ConectaN is a simple clone of the traditional game [Connect Four](http://en.wikipedia.org/wiki/Connect_Four "Wikipedia Connect Four") written with a simple IA.
 
 Build
 -----
