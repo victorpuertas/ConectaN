@@ -27,7 +27,7 @@ void comenzar_partida(conecta_conf mi_configuracion,interface & entorno_graf,jug
   player.set_tablero(&panel_juego);
   
   entorno_graf.dibujar_tablero(mi_configuracion.filas,mi_configuracion.columnas);
-  entorno_graf.escribir_estado("Conecta N 2005. (c) 2005, Victor Puertas. vpg12@correo.ugr.es");   
+  entorno_graf.escribir_estado("Conecta N 2005. (c) 2005, Victor Puertas. vpgugr@gmail.com");   
   entorno_graf.escribir_puntos((player.info(1)).puntos,30,45,(player.info(2)).puntos,entorno_graf.resolucion_w-106-30,45);  
   
   int salida;
