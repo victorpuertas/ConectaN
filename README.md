@@ -11,3 +11,7 @@ For build you need:
 * [SDL Library](http://www.libsdl.org/ "Simple DirectMedia Layer")
 
 Use the make command for build the executable file in /bin.
+
+License
+-------
+You can redistribute/or modify ConectaN under the terms of [MIT license](http://opensource.org/licenses/MIT "MIT license").
