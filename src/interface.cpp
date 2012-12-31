@@ -1198,7 +1198,7 @@ int interface::ObtenerClick(int &x, int &y)
   while (!fin) {
     if (SDL_PollEvent(&evento)) {
       switch (evento.type) {
-        case SDL_MOUSEBUTTONDOWN:    // Pulsamos bot� del rat�
+        case SDL_MOUSEBUTTONDOWN:    // Click de raton
           boton = (int)(evento.button.button);
           x = evento.button.x;
           y = evento.button.y;
